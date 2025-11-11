@@ -315,3 +315,6 @@ git push origin main
 /index.html
 /package.json
 /README.md
+index.html
+style.css
+script.js
