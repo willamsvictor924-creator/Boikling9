@@ -257,4 +257,22 @@ button:hover {
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
-}
+}git add .
+git commit -m "add package.json"
+git push origin mainnpm init -y
+npm install react react-dom react-scripts{
+  "name": "boikling9",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}package.json
