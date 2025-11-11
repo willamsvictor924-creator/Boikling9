@@ -352,3 +352,21 @@ script.js
 }git add .
 git commit -m "add react-scripts"
 git pushnpm install react-scriptspnpm add react-scripts
+git add .
+git commit -m "fix: add react-scripts"
+git pushpnpm installnpm install{
+  "name": "boikling9",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
