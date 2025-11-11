@@ -349,4 +349,6 @@ script.js
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   }
-}
+}git add .
+git commit -m "add react-scripts"
+git pushnpm install react-scriptspnpm add react-scripts
