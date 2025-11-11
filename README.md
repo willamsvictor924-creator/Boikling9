@@ -310,3 +310,8 @@ git push origin main{
 }git add package.json
 git commit -m "adiciona package.json na raiz"
 git push origin main
+
+/src
+/index.html
+/package.json
+/README.md
