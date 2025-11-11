@@ -370,3 +370,6 @@ git pushpnpm installnpm install{
     "react-scripts": "5.0.1"
   }
 }
+git add .
+git commit -m "add react-scripts dependency"
+git push"react-scripts": "5.0.1"npm install react-scriptspnpm add react-scripts
