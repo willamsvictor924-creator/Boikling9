@@ -1,4 +1,9 @@
-{
+boikling9/
+  ├─ public/
+  ├─ src/
+  ├─ package.json
+  ├─ tailwind.config.js
+  └─ etc...{
   "name": "boikling9",
   "version": "1.0.0",
   "private": true,
@@ -217,4 +222,9 @@ button:hover {
   stripeKey: "COLOQUE_SUA_CHAVE_STRIPE_AQUI", 719.930.184-76 
   mercadoPagoKey: "COLOQUE_SUA_CHAVE_MERCADOPAGO_AQUI",
   pixOwner: "willamsvictor924@gmail.com"
-};
+};boikling9/
+  ├─ public/
+  ├─ src/
+  ├─ package.json
+  ├─ tailwind.config.js
+  └─ etc...
