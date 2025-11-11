@@ -307,4 +307,6 @@ git push origin main{
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21"
   }
-}
+}git add package.json
+git commit -m "adiciona package.json na raiz"
+git push origin main
