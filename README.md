@@ -1,4 +1,18 @@
-boikling9/
+{
+  "name": "boikling9",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.0.0"
+  }
+}boikling9/
   ├─ public/
   ├─ src/
   ├─ package.json
@@ -257,4 +271,18 @@ button:hover {
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
-}
+}{
+  "name": "boikling9",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.0.0"
+  }
+}package.json
